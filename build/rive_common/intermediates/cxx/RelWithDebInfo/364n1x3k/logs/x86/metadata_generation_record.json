@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file_": "C:\\Users\\estor\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.4.11\\android\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1265792227
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\estor\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.4.11\\android\\.cxx\\RelWithDebInfo\\364n1x3k\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\estor\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.4.11\\android\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 839674088
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\estor\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.4.11\\android\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -438569779
+  }
+]

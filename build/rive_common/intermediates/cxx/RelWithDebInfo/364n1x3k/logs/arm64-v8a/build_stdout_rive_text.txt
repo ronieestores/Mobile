@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\estor\AppData\Local\Pub\Cache\hosted\pub.dev\rive_common-0.4.11\android\.cxx\RelWithDebInfo\364n1x3k\arm64-v8a'
+[1/1] Linking CXX shared library C:\Users\estor\AndroidStudioProjects\mobile_app\build\rive_common\intermediates\cxx\RelWithDebInfo\364n1x3k\obj\arm64-v8a\librive_text.so
